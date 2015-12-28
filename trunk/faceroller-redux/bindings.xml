@@ -1,0 +1,6 @@
+<Bindings>
+	<Binding name="FACEROLLER_SHOW_GUI" description="Default description" header="FACEROLLER">
+		Faceroller:ShowGUI()
+	</Binding>
+</Bindings>
+

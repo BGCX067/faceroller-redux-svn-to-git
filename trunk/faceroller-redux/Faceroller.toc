@@ -1,0 +1,30 @@
+## Interface: 30300
+## Title: Faceroller
+## Notes: Faceroll your way to victory
+## Author: Hungtar
+## Version: 0.2.9
+## OptionalDeps: ButtonFacade
+## SavedVariablesPerCharacter: FacerollerDB, Faceroller_GUIDB
+## X-WoWI-ID: 14924
+
+## core
+Faceroller.lua
+
+## gui
+embeds.xml
+gui\gui.lua
+
+## modules
+## modules\examples\ExampleModule.lua
+## modules\examples\EasyExample.lua
+## modules\examples\SimpleEnhancementShaman.lua
+
+modules\experimental\mage_ffb.lua
+modules\experimental\mage_arcane.lua
+modules\experimental\shaman_ele.lua
+modules\experimental\shaman_enh.lua
+modules\experimental\paladin_prot.lua
+modules\experimental\dk_frost.lua
+modules\experimental\dk_frost2.lua
+modules\experimental\hunter.lua
+modules\experimental\warrior_prot.lua
